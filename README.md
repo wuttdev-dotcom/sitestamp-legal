@@ -12,8 +12,8 @@ After pushing this repository to GitHub:
 4. Select branch `main` and folder `/root`.
 5. Save and wait for GitHub Pages to publish.
 
-Expected URLs:
+Published URLs:
 
-- Privacy Policy: `https://<github-user>.github.io/sitestamp-legal/privacy.html`
-- Terms of Use: `https://<github-user>.github.io/sitestamp-legal/terms.html`
-- Support: `https://<github-user>.github.io/sitestamp-legal/support.html`
+- Privacy Policy: `https://wuttdev-dotcom.github.io/sitestamp-legal/privacy.html`
+- Terms of Use: `https://wuttdev-dotcom.github.io/sitestamp-legal/terms.html`
+- Support: `https://wuttdev-dotcom.github.io/sitestamp-legal/support.html`
