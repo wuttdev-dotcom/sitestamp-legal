@@ -1,6 +1,6 @@
 # SiteStamp Legal Pages
 
-Static legal and support pages for 项目水印相机 / SiteStamp Camera.
+Static legal and support pages for SiteStamp Camera.
 
 ## GitHub Pages
 

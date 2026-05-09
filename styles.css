@@ -160,12 +160,6 @@ li + li {
   margin-bottom: 24px;
 }
 
-.language-block {
-  border-top: 1px solid var(--line);
-  margin-top: 34px;
-  padding-top: 30px;
-}
-
 .notice {
   background: #edf8fb;
   border: 1px solid #b9e2ee;
